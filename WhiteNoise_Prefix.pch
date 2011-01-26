@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'WhiteNoise' target in the 'WhiteNoise' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
